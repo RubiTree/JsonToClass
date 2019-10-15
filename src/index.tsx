@@ -1,3 +1,5 @@
+import '../node_modules/reflect-metadata/Reflect.js'
+import 'reflect-metadata'
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
